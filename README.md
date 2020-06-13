@@ -1,2 +1,2 @@
-# abuabu
+# primafresh
 script auto claim voucher + setpin
